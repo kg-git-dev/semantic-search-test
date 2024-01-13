@@ -1,0 +1,4 @@
+Flask==3.0.0
+gunicorn==21.2.0
+sentence-transformers==2.2.2
+db-sqlite3==0.0.1
